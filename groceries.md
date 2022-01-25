@@ -1,5 +1,9 @@
 ### Groceries
 
 - [ ] Bread
-- [x] Sour Cream
+- [ ] Sour Cream
 - [x] Onions
+
+- [ ] style
+- [x] mangoes
+
