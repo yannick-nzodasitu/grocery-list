@@ -7,3 +7,8 @@
 - [ ] style
 - [x] mangoes
 
+
+### Fruits
+
+- [ ] Apple
+- [x] Orange
